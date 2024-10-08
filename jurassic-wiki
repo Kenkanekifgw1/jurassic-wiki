@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Scopri i dinosauri carnivori più feroci, dal T. Rex al Mosasauro!">
+    <title>Jurassic Wiki - Il mondo dei dinosauri carnivori</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <h1>Jurassic Wiki</h1>
+        <p>Esplora il mondo dei dinosauri carnivori, dal T. Rex al Mosasauro!</p>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Sezione 1: Dinosauri Terrestri -->
+        <section id="dinosauri-terrestri">
+            <h2>Dinosauri terrestri carnivori</h2>
+            <article>
+                <h3>Tyrannosaurus Rex</h3>
+                <p>Il T. Rex era uno dei predatori terrestri più grandi e temibili. Vissuto nel tardo Cretaceo, questo dinosauro si distingue per le sue potenti mascelle e la sua grande mole.</p>
+            </article>
+            <article>
+                <h3>Velociraptor</h3>
+                <p>Nonostante le piccole dimensioni, il Velociraptor era un cacciatore astuto, spesso associato alla caccia di gruppo. Era noto per la sua velocità e intelligenza.</p>
+            </article>
+            <article>
+                <h3>Allosaurus</h3>
+                <p>Vissuto nel Giurassico, l'Allosaurus era il predatore dominante del suo tempo, con forti mascelle e denti affilati come rasoi.</p>
+            </article>
+        </section>
+
+        <!-- Sezione 2: Rettili Marini -->
+        <section id="rettili-marini">
+            <h2>Rettili marini carnivori</h2>
+            <article>
+                <h3>Mosasaurus</h3>
+                <p>Il Mosasaurus era un enorme rettile marino del tardo Cretaceo, cacciatore di grandi prede negli oceani antichi. Misurava fino a 17 metri di lunghezza!</p>
+            </article>
+        </section>
+
+        <!-- Sezione 3: Epoche -->
+        <section id="epoche">
+            <h2>Le epoche dei dinosauri</h2>
+            <p>Esplora i periodi in cui i dinosauri carnivori dominavano il mondo: Triassico, Giurassico e Cretaceo.</p>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Jurassic Wiki. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+</html>
